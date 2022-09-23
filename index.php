@@ -1,9 +1,4 @@
-<html>
 
-<head>
-<title>Exemplo/title>
-</head>
-<body>
 
 <?php
 ini_set("display_errors", 1);
